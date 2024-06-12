@@ -1,0 +1,16 @@
+audi
+sedan 1.8 1980 2000
+lada
+SUV 1.9 2000 2010 sedan 3.0 2019 2029
+honda
+coupe 3.1 2020 2031 crossover 1.6 1800 2000
+reno
+crossover 1.2 1980 2020
+Lada grande
+SUV 1.2 2005 2015
+Lada somara
+sedan 1.5 2005 2015
+reno ne predumal
+body 1.6 1980 2070
+da
+net 2.0 1000 2000 human 3.0 0 2024 cat 100.0 0 2000

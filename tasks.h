@@ -1,0 +1,2 @@
+void taskOne();
+void taskTwo();
